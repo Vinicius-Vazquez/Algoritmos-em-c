@@ -2,9 +2,7 @@
 Autor: Vinicius Vazquez
 Curso: Engenharia da Computação - CEFET
 Linguagem: C
-Descrição:
-Programa que solicita um número inteiro ao usuário
-e verifica se o número é par ou ímpar.
+Descrição: Programa que solicita um número inteiro ao usuário e verifica se o número é par ou ímpar.
 
 Data: 2026
 */
