@@ -2,9 +2,7 @@
 Autor: Vinicius Vazquez
 Curso: Engenharia da Computação - CEFET
 Linguagem: C
-Descrição:
-Programa que solicita dois números inteiros ao usuário
-e exibe a soma entre eles.
+Descrição: Programa que solicita dois números inteiros ao usuário e exibe a soma entre eles.
 
 Data: 2026
 */
