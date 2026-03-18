@@ -2,9 +2,7 @@
 Autor: Vinicius Vazquez
 Curso: Engenharia da Computação - CEFET
 Linguagem: C
-Descrição:
-Programa que solicita um número inteiro ao usuário
-e determina se ele é negativo, zero ou positivo.
+Descrição: Programa que solicita um número inteiro ao usuário e determina se ele é negativo, zero ou positivo.
 
 Data: 2026
 */
