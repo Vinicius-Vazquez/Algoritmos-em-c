@@ -2,12 +2,9 @@
 Autor: Vinicius Vazquez
 Curso: Engenharia da Computação - CEFET
 Linguagem: C
-Descrição:
-Programa que calcula a raiz quadrada de um número utilizando
-o método de Newton (aproximação iterativa).
+Descrição: Programa que calcula a raiz quadrada de um número utilizando o método de Newton (aproximação iterativa).
 
-O algoritmo começa com uma estimativa inicial e melhora
-progressivamente o resultado através de iterações.
+O algoritmo começa com uma estimativa inicial e melhora progressivamente o resultado através de iterações.
 
 Data: 2026
 */
