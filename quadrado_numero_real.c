@@ -2,9 +2,7 @@
 Autor: Vinicius Vazquez
 Curso: Engenharia da Computação - CEFET
 Linguagem: C
-Descrição:
-Programa que solicita um número real ao usuário
-e calcula o quadrado desse número.
+Descrição: Programa que solicita um número real ao usuário e calcula o quadrado desse número.
 
 Data: 2026
 */
